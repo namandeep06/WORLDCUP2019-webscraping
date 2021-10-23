@@ -31,18 +31,18 @@ This is a web scraping project which extracts information of WorldCup 2019 from 
     
  ## Matches JSON file
        Extracted information from JSDOM:
-       ![Screenshot (312)](https://user-images.githubusercontent.com/67057463/138547592-74671b52-6a0e-45f3-8c6b-47fab8df17a8.png)
+![Screenshot (312)](https://user-images.githubusercontent.com/67057463/138547592-74671b52-6a0e-45f3-8c6b-47fab8df17a8.png)
 
  ## Teams JSON file
        Categorize in the form of teams:
-       ![Screenshot (313)](https://user-images.githubusercontent.com/67057463/138547603-21c41156-04a1-4361-b553-efeb7de35c00.png)
+ ![Screenshot (313)](https://user-images.githubusercontent.com/67057463/138547603-21c41156-04a1-4361-b553-efeb7de35c00.png)
 
  ## Excel File
-        ![Screenshot (314)](https://user-images.githubusercontent.com/67057463/138547626-b7d4c6aa-d5ec-4629-9085-df381dcf5674.png)
+ ![Screenshot (314)](https://user-images.githubusercontent.com/67057463/138547626-b7d4c6aa-d5ec-4629-9085-df381dcf5674.png)
 
  
  ## Pdf Empty template:
-        ![Screenshot (316)](https://user-images.githubusercontent.com/67057463/138547636-9b4949ec-b943-4f0b-8c4d-176ce686125c.png)
+ ![Screenshot (316)](https://user-images.githubusercontent.com/67057463/138547636-9b4949ec-b943-4f0b-8c4d-176ce686125c.png)
 
  ## Pdf-Score cards after execution:
-        ![Screenshot (315)](https://user-images.githubusercontent.com/67057463/138547640-a1dd1ced-ec9c-47ec-9f82-a668c5cdd35d.png)
+ ![Screenshot (315)](https://user-images.githubusercontent.com/67057463/138547640-a1dd1ced-ec9c-47ec-9f82-a668c5cdd35d.png)
